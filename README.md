@@ -4,7 +4,7 @@ Name: Katherine Pak
 
 Pronouns: She/Her/Hers
 
---
+---
 
 I am a software developer trained in HTML, CSS, JavaScript, SQL, Python (Django), and C# (.NET, MVC, ASP). I've written and contributed to live web applications using Python/Django and C#/ASP.NET.
 
